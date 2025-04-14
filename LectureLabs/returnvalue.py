@@ -8,8 +8,8 @@ def avg(x, y):
     #and divide them by 2 to get the average
     return (x + y) / 2
 
-#New variable to store the result of the score1 variable 
-#and score2 variable to replace x and y in the function
+#New variable to store the result of the function
+#However, pass in score1 and score2 variables as a replacement for x and y
 result = avg(score1, score2)
 
 #Print the result variable
